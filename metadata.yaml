@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8659
     wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40691#Kidnapping-in-the-PacificThe-Adventures-of-Boas-Ringdon--A-long-four-part-Yarn
 gutenberg_issued: '2012-09-06'
 gutenberg_type: Text
 identifiers:
